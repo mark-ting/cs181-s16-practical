@@ -7,6 +7,6 @@ Instructions are included in relevant sub-directories on how to properly use the
 
 ## Contributors
 
-Mingu Kim
-Takehiro Matsuzawa
-Wei-Te Mark Ting
+* Mingu Kim
+* Takehiro Matsuzawa
+* Wei-Te Mark Ting

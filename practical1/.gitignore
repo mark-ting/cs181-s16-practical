@@ -1,0 +1,13 @@
+# Test and Training Data
+test.csv
+train.csv
+
+test.gz
+train.gz
+
+# Sample Outputs
+sample1.csv
+sample2.csv
+
+# Practical PDF
+practical1-regression.pdf

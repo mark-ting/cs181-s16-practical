@@ -1,13 +1,9 @@
-# Test and Training Data
-test.csv
-train.csv
+# Data and Outputs
+*.csv
+*.gz
 
-test.gz
-train.gz
-
-# Sample Outputs
-sample1.csv
-sample2.csv
+# iPython Files
+.ipynb_checkpoints/
 
 # Practical PDF
 practical1-regression.pdf
